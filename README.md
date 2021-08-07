@@ -7,7 +7,7 @@ Puis, je proposerai des projets orientés en Architecture BigData.
 -->
 
 ***********************************************************************************************************************************************************************************
-Le projet en communication RS232, consiste à montrer comment récupérer les données depuis un appareil/cible (carte Arduino ou Raspberry pi) qui communique en RS232 avec un PC. L'idée est de récupérer et de traiter ces données avec Python en utilisant la bibliothèque pyserial pour l'utilisation des ports séries. 
+Le projet en communication RS232, consiste à montrer comment récupérer les données depuis un appareil/cible (carte Arduino ou Raspberry pi) en communication RS232 avec un PC. L'idée est de récupérer et de traiter ces données avec Python en utilisant la bibliothèque pyserial pour l'utilisation des ports séries. 
 
 Le code est réparti en 2 fichiers .py, l'un (Functions.py) pour l'écriture des fonctions adéquates et l'autre (main.py) pour l'appel de ces diférentes fonctions.
 ***********************************************************************************************************************************************************************************
