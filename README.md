@@ -15,5 +15,5 @@ Le fichier AES.py (AES : Advanced Encryption Standard) consiste à refaire l'alg
 ***********************************************************************************************************************************************************************************
 Le fichier Recording.py pour le traitement du signal permet de faire l'enregistrement d'un son depuis la carte son de l'ordinateur, puis d'afficher le spectre temporel et le spectrogramme du signal. On pourra s'amuser à mettre des filtres (passe haut et passe bas) pour hacher le signal. 
 ***********************************************************************************************************************************************************************************
-Le fichier MapReduce.py décrit de façon brève l'algorithme de calculs distribués de l'écosystème Haddop. 
+Le fichier MapReduce.py décrit de façon brève l'algorithme de calculs distribués de l'écosystème Hadoop. 
 ***********************************************************************************************************************************************************************************
